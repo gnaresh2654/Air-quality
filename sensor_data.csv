@@ -1,0 +1,3 @@
+timestamp,sensor_id,location,pm25,pm10,co2,temperature,humidity
+2025-10-17 10:00:00,S001,Building-A,35.2,52.1,420,22.5,45
+2025-10-17 10:00:00,S002,Building-B,28.5,45.3,380,23.1,42
